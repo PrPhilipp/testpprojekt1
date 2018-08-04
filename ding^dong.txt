@@ -1,0 +1,5 @@
+start
+this 
+rogramm
+^
+kill:sebatian
